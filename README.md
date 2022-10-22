@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Welcome to my GitHub page.
+
+- 🔭 I’m currently working on Azure infrastructure mostly.  
+- 🌱 I’m currently learning more about Bicep and PS Rule.  
+
 <!--
 **BertusV/BertusV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
